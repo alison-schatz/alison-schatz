@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Alison.;Nice+to+meet+you!)](https://git.io/typing-svg)
-<img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/40680_ade4KY1y.png?width=676&height=676">
+<img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d89575470cd57f33277c0a041b344664.gif">
  #
  #
  #
  
-
-
-
- 
-
 ### My current skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
